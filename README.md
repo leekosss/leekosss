@@ -2,7 +2,7 @@
 I'm leekos,a web security enthusiast.
 - 🔭 I’m currently studying on JXNU.
 - 🌱 I’m currently learning web&misc.
-- 📫 How to reach me: qq:2500495325.
+- 📫 How to reach me: qq:MjUwMDQ5NTMyNQ==.
 
 <!--
 **leekosss/leekosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
