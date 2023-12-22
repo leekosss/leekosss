@@ -17,7 +17,6 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
   
-  
 
 
 </div>
@@ -27,6 +26,9 @@ I'm leekos,a web security enthusiast.
 - 🔭 I’m currently studying on JXNU.
 - 🌱 I’m currently learning web&misc.
 - 📫 How to reach me: qq:MjUwMDQ5NTMyNQ==.
+
+ <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
 
 <!--
 **leekosss/leekosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +45,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekosss&show_icons=true&theme=tokyonight)
+
+<!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekosss&layout=compact&theme=tokyonight)
 
